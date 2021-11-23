@@ -1,0 +1,20 @@
+Iremos dividir o projeto em algumas partes!
+
+sobretudo
+
+// Templates
+// Paginas
+// Componentes (só recebe uma info)
+
+
+-> Entrar na página
+
+-> Dashboard:
+    Quem foi selecionado (tirar dados da empresa e dados da unidade)
+    Unidade Selecionada
+    Quantidade de máquinas
+    Status médio
+    Quantidade de alertas
+
+
+

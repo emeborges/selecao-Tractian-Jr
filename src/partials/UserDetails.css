@@ -1,0 +1,38 @@
+span{
+    text-decoration: underline;
+}
+
+.boxDados{
+    display: flex;
+    flex-wrap:wrap;
+    margin-top: 0.5rem;
+    width: 100%;
+}
+
+
+.dadosDescritos{
+    text-align: center;
+    
+}
+
+.conteinerCalendario{
+    width: 50%;
+}
+
+.conteinerTasks{
+    width: 30%;
+    height: 26rem;
+    min-width: 50vh;
+}
+
+.tasks{
+    height: 50%;
+}
+
+.conteinerAlertas{
+    width: 33.5%;
+    min-width: 45vh;
+    margin-left: 0.5rem;
+}
+
+

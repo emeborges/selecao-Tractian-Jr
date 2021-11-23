@@ -1,0 +1,9 @@
+.logo{
+    height: 40px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.menuContainer{
+    padding-left: 0.5rem;
+}

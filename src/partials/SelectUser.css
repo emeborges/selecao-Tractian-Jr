@@ -1,0 +1,36 @@
+.boxCentral{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 1rem;
+    background-color: rgba(253,253,253,90%);
+    
+}
+
+.boxForm{
+    display: flex;
+    flex-direction: column;
+}
+
+.boxSelect{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+.SelectComponent{
+    min-width: 30vh;
+}
+
+.boxButton{
+    padding-top: 0.125rem;
+    display: flex;
+    align-items: center;
+}
+
+.ButtonComponent{
+    width: 10rem;
+    align-items: center;
+}

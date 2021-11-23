@@ -1,0 +1,11 @@
+.boxCalendario{
+    margin: 0rem 0rem 0rem 0.5rem;
+    min-width: 50vh;
+    width: 35%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.calendarioObjeto{
+    height: 22.5rem;
+}

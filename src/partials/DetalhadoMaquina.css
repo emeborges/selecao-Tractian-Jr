@@ -1,0 +1,44 @@
+.conteinerPrincipal{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.dadosBase{
+    display: flex;
+    width: 25%;
+    min-width: 21rem;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.dadosDescritos{
+    padding-top:1rem;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+.links{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    flex-wrap: wrap;
+}
+
+.informacoesGerais{
+    display: flex;
+    flex-direction: column;
+    width: 73%;
+    max-width: 73%;
+    min-width: 21rem;
+    flex-wrap: wrap;
+}
+.conteinerEstatiticas{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.especificacao{
+    padding-top: 1rem;
+}

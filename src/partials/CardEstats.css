@@ -1,0 +1,16 @@
+.conteinerDados{
+    width: 24.3%;
+    min-width: 30vh;
+    margin-left: 0.5rem;
+    padding: 0;
+    text-align: center;
+    align-items: center;
+}
+
+.conteinerBasico{
+    width:33.3%;
+    min-width: none;
+    text-align: center;
+    padding:0;
+    align-items: center;
+}

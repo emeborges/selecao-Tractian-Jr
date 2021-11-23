@@ -1,0 +1,36 @@
+
+.conteinerConteudo{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.conteinerBasico{
+    display:flex;
+    justify-content: center;
+    height: 6rem;
+}
+.conteinerDadosGerais{
+    min-width: 18rem;
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.conteinerResumo{
+    display: flex;
+}
+
+.conteinerMaquinas{
+    width: 60%;
+    min-width: 18rem;
+}
+
+.boxGraficoComparativo{
+    height: 17rem;
+    min-height: 17rem;
+}
+
+.graficoDasMaquinas{
+    width:100%;
+}
